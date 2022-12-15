@@ -1,7 +1,7 @@
 # LightDarkUIDesignExample
 Android UI tasarımı üzerinde **Light ve Dark Mode** çalışması
 
-Bu projede Android alanında arayüz UI tasarımın nasıl olduğu kodlanarak anlatılacaktır. Kodlama aşamasında kullanacağınız dosyalar şunlardır:
+Bu projede Android alanında light ve dark modunda UI tasarımının nasıl olduğu gerçekleştirilmiştir. Kodlama aşamasında kullanılan dosyalar şunlardır:
 
 -> <a href='https://github.com/mertatay-ce/LightDarkUIDesignExample/tree/main/app/src/main/res'>Resources (Dosyalar)</a> <br>
 -> <a href='https://github.com/mertatay-ce/LightDarkUIDesignExample/tree/main/app/src/main/res/layout'>Pencereler (Light Mode)</a> <br>
@@ -18,3 +18,4 @@ Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-
 
 ***res/drawable*** <br> ***res/styles*** <br> ***res/color*** <br> gibi sonu klasör ismiyle biten klasörler light modda çalışan dosyalardır.
 
+**Not:** Yapı olarak CoordinatorLayout ve BottomNavigationView componentleri içermektedir.
