@@ -21,5 +21,5 @@ Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-
 **Not:** Yapı olarak CoordinatorLayout ve BottomNavigationView componentleri içermektedir.
 
 <video width="320" height="240" controls>
-  <source src="output.mov" type="video/mp4">
+  <source src="https://github.com/mertatay-ce/LightDarkUIDesignExample/tree/main/output.mov" type="video/mp4">
 </video>
