@@ -22,6 +22,9 @@ Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-
 
 Çıktı olarak:<br>
 
-![https://user-images.githubusercontent.com/79770837/207951762-53326ce1-0e4f-4e89-b969-6235e9a087d3.mov](https://user-images.githubusercontent.com/79770837/207951762-53326ce1-0e4f-4e89-b969-6235e9a087d3.mov)
+<video width="320" height="240" controls>
+  <source src="[video.mov](https://user-images.githubusercontent.com/79770837/207951762-53326ce1-0e4f-4e89-b969-6235e9a087d3.mov))" type="video/mp4">
+</video>
+
 
 
