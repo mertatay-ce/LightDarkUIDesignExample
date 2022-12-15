@@ -19,3 +19,4 @@ Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-
 ***res/drawable*** <br> ***res/styles*** <br> ***res/color*** <br> gibi sonu klasör ismiyle biten klasörler light modda çalışan dosyalardır.
 
 **Not:** Yapı olarak CoordinatorLayout ve BottomNavigationView componentleri içermektedir.
+![](output.mov)
