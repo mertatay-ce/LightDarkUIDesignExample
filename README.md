@@ -22,9 +22,10 @@ Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-
 
 Çıktı olarak:<br>
 
-https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/output.mov
+https://user-images.githubusercontent.com/79770837/207956082-aa88c02e-6f5e-4263-af0a-cb9b6c4b7d54.mov
 
 Resim çıktısı:
-
+<div>
 <img src='https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/darkmode_output.png' width='300' height='700' />
 <img src='https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/lightmode_output.png' width='300' height='700' />
+</div>
