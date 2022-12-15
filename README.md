@@ -26,5 +26,5 @@ https://user-images.githubusercontent.com/79770837/207951762-53326ce1-0e4f-4e89-
 
 Resim çıktısı:
 
-<img src='https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/darkmode_output.png' width='300' height='500' />
-<img src='https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/lightmode_output.png' width='300' height='500' />
+<img src='https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/darkmode_output.png' width='300' height='700' />
+<img src='https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/lightmode_output.png' width='300' height='700' />
