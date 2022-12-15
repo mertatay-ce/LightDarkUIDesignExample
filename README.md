@@ -19,4 +19,7 @@ Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-
 ***res/drawable*** <br> ***res/styles*** <br> ***res/color*** <br> gibi sonu klasör ismiyle biten klasörler light modda çalışan dosyalardır.
 
 **Not:** Yapı olarak CoordinatorLayout ve BottomNavigationView componentleri içermektedir.
-![https://github.com/mertatay-ce/LightDarkUIDesignExample/blob/main/output.mov](output.mov)
+
+<video width="320" height="240" controls>
+  <source src="output.mov" type="video/mp4">
+</video>
