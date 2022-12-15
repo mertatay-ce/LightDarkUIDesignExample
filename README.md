@@ -16,10 +16,12 @@ Projede emulatör kullanma sırasında emulatörün dark mode ayarına göre def
 
 Projede, ***res/drawable-night*** <br> ***res/color-night*** <br> ***res/styles-night*** gibi sonu klasör ismi ..-night ile biten klasörlerinde bulunan dosyalar dark modda çalışan dosyalardır.
 
-***res/drawable*** <br> ***res/styles*** <br> ***res/color*** <br> gibi sonu klasör ismiyle biten klasörler light modda çalışan dosyalardır.
+***res/drawable*** <br> ***res/styles*** <br> ***res/color*** <br> gibi sonu klasör ismiyle biten klasörler light modda çalışan dosyalardır.<br>
 
-**Not:** Yapı olarak CoordinatorLayout ve BottomNavigationView componentleri içermektedir.
+**Not:** Yapı olarak CoordinatorLayout ve BottomNavigationView componentleri içermektedir.<br>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/mertatay-ce/LightDarkUIDesignExample/tree/main/output.mov" type="video/mp4">
-</video>
+Çıktı olarak:<br>
+
+![](https://user-images.githubusercontent.com/79770837/207951762-53326ce1-0e4f-4e89-b969-6235e9a087d3.mov)
+
+
